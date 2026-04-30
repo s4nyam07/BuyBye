@@ -7,13 +7,13 @@ A minimal CLI shop manager to track stock, sales, and more — no bloat, just wo
 ## Installation
 
 1. Clone the repository:
-    
+  ```  
     git clone https://github.com/s4nyam07/BuyBye.git
-
+ ```
 3. Install dependency:
-    
+   ``` 
     pip install pandas
-
+   ```
 4. Run the app, all required files are created automatically on first launch.
 
 ---
